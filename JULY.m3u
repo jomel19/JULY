@@ -13,23 +13,23 @@ http://gotv.vip:8880/Kim1/Kim1/122388
 http://209.45.81.84:8000/play/a00c
 #EXTINF:0,LIGA 1 MAX 2
 http://161.132.108.75:50001/play/a03y/index.m3u8
-#EXTINF:0,GOLPERU HD 1
+#EXTINF:-1,GOLPERU HD 1
 http://209.45.81.84:8000/play/a00a
 #EXTINF:-1,GOLPERU HD 2
 http://187.102.208.155:8000/play/a06u/index.m3u8
-#EXTINF:0,Movistar Deportes HD 1
+#EXTINF:-1,Movistar Deportes HD 1
 http://209.45.81.84:8000/play/a002
 #EXTINF:-1,Movistar Deportes HD 2
 http://187.102.208.155:8000/play/a06i/index.m3u8
-#EXTINF:0, Latina HD
+#EXTINF:-1, Latina HD
 http://209.45.81.84:8000/play/a008
 #EXTINF:-1,Latina HD
 http://187.102.208.155:8000/play/a0aw/index.m3u8
 #EXTINF:-1,America TV HD
 http://187.102.208.155:8000/play/a0av/index.m3u8
-#EXTINF:0, América TV HD
+#EXTINF:-1, América TV HD
 http://209.45.81.84:8000/play/a002
-#EXTINF:0,TV PANAMERICANA
+#EXTINF:-1,TV PANAMERICANA
 http://209.45.81.84:8000/play/a00b
 #EXTINF:0,TV PANAMERICANA
 http://177.53.153.21:8001/play/a00v/index.m3u8
