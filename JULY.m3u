@@ -21,18 +21,26 @@ http://161.132.108.75:50001/play/a03y/index.m3u8
 http://209.45.81.84:8000/play/a00a
 #EXTINF:-1,GOLPERU HD 2
 http://191.97.58.41:8001/play/a008
+#EXTINF:-1,GOLPERU HD 3
+http://190.116.90.43:8000/play/a012
 #EXTINF:-1,Movistar Deportes HD 1
 http://209.45.81.84:8000/play/a002
 #EXTINF:-1,Movistar Deportes HD 2
-http://191.97.58.41:8001/play/a02a
+http://161.132.194.88:7076/play/a0t1/index.m3u8
+#EXTINF:-1,Movistar Deportes HD 3
+http://190.116.90.43:8000/play/a00x
+#EXTINF:-1, Latina HD
+http://190.116.90.43:8000/play/a011
 #EXTINF:-1, Latina HD
 http://209.45.81.84:8000/play/a008
 #EXTINF:-1,Latina HD
-http://161.132.108.75:50001/play/a029/index.m3u8
+http://161.132.194.88:7076/play/a0t8/index.m3u8
 #EXTINF:-1,America TV HD
-http://161.132.108.75:50001/play/a02a/index.m3u8
+http://190.116.90.43:8000/play/a010
 #EXTINF:-1, América TV HD
 http://177.53.153.21:8001/play/a03w/index.m3u8
+#EXTINF:-1, América TV HD
+http://181.119.66.30:8000/play/a05w/index.m3u8
 #EXTINF:-1,TV PANAMERICANA
 http://209.45.81.84:8000/play/a00b
 #EXTINF:0,TV PANAMERICANA
@@ -69,6 +77,8 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 http://gotv.vip:8880/Kim1/Kim1/146627
 #EXTINF:0,GLOBAL
 http://191.97.58.41:8001/play/a00d
+#EXTINF:-1,Distrito Comedia
+http://181.119.66.30:8000/play/a073/index.m3u8
 #EXTINF:0,DISTRITO COMEDIA 
 http://sysadminhost.net:8080/ADC5AND6/da3be4b6/9126
 #EXTINF:0,DISTRITO COMEDIA
