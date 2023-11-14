@@ -80,7 +80,7 @@ http://gotv.vip:8880/Kim1/Kim1/146627
 #EXTINF:0,GLOBAL
 http://191.97.58.41:8001/play/a00d
 #EXTINF:-1,Distrito Comedia
-http://181.119.66.30:8000/play/a073/index.m3u8
+http://31.42.185.216:8000/melihr89TV/M4FF5SGQKC/4783
 #EXTINF:0,DISTRITO COMEDIA 
 http://sysadminhost.net:8080/ADC5AND6/da3be4b6/9126
 #EXTINF:0,DISTRITO COMEDIA
@@ -127,6 +127,8 @@ http://45.175.166.13:49010/play/a03c/index.m3u8
 http://161.132.108.75:50001/play/a03r/index.m3u8
 #EXTINF:-1,Tigo Sports HD
 http://161.132.108.75:50001/play/a041/index.m3u8
+#EXTINF:-1,Tigo Sports HD
+http://gotv.vip:8880/Kim1/Kim1/145931
 #EXTINF:-1,Claro Sports 1 HD
 http://161.132.108.75:50001/play/a02w/index.m3u8
 #EXTINF:-1,Claro Sports 2 HD
@@ -140,11 +142,21 @@ http://45.175.166.13:49010/play/a01h/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://191.97.58.41:8001/play/a007
 #EXTINF:-1,CHV HD
-http://170.254.234.244:8000/play/a01k/index.m3u8
+http://gotv.vip:8880/Kim1/Kim1/229
+#EXTINF:-1,CHV HD
+http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53SRhf2corysDEhCpK8Wui5o
 #EXTINF:-1,Caracol HD
 http://161.132.108.75:50001/play/a030/index.m3u8
 #EXTINF:-1,RCN HD
 http://161.132.108.75:50001/play/a02z/index.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES HD
+http://31.42.185.216:8000/melihr89TV/M4FF5SGQKC/4320
+#EXTINF:-1,LIGA DE CAMPEONES 2 HD
+http://gotv.vip:8880/Kim1/Kim1/145939
+#EXTINF:-1,LIGA DE CAMPEONES 3 HD
+http://gotv.vip:8880/Kim1/Kim1/145942
+#EXTINF:-1,LIGA DE CAMPEONES 4 HD
+http://gotv.vip:8880/Kim1/Kim1/145942
 #EXTINF:-1,Canal 24 Horas HD
 http://161.132.108.75:50001/play/a02q/index.m3u8
 #EXTINF:-1,Euronews HD
@@ -153,6 +165,8 @@ http://161.132.108.75:50001/play/a02v/index.m3u8
 http://161.132.108.75:50001/play/a01q/index.m3u8
 #EXTINF:-1,Space HD
 http://191.97.58.41:8001/play/a024
+#EXTINF:-1,ANTENA 3 HD
+http://31.42.185.216:8000/melihr89TV/M4FF5SGQKC/126214
 #EXTINF:-1,A&E HD
 http://45.175.166.13:49010/play/a00s/index.m3u8
 #EXTINF:-1,AMC HD
