@@ -152,7 +152,7 @@ http://190.119.178.46:8000/play/a00u/index.m3u8
 #EXTINF:-1,Tigo Sports HD
 http://161.132.108.75:50001/play/a041/index.m3u8
 #EXTINF:-1,Tigo Sports HD
-http://gotv.vip:8880/Kim1/Kim1/145931
+http://190.119.178.46:8000/play/a03o/index.m3u8
 #EXTINF:-1,Claro Sports 1 HD
 http://161.132.108.75:50001/play/a02w/index.m3u8
 #EXTINF:-1,Claro Sports 2 HD
@@ -183,8 +183,6 @@ http://190.119.178.46:8000/play/a02h/index.m3u8
 http://190.119.178.46:8000/play/a014/index.m3u8
 #EXTINF:-1,CHV HD
 http://gotv.vip:8880/Kim1/Kim1/229
-#EXTINF:-1,CHV HD
-http://dnslivetv.online:80/play/U8dhAvSLwLpPcyDnKOp53SRhf2corysDEhCpK8Wui5o
 #EXTINF:-1,Caracol HD
 http://190.119.178.46:8000/play/a02u/index.m3u8
 #EXTINF:-1,Caracol HD
@@ -351,8 +349,6 @@ http://190.119.178.46:8000/play/a015/index.m3u8
 http://190.119.178.46:8000/play/a00z/index.m3u8
 #EXTINF:-1,STAR TVE HD
 http://190.119.178.46:8000/play/a028/index.m3u8
-#EXTINF:-1,Sextreme
-http://190.119.178.46:8000/play/a00m/index.m3u8
 #EXTINF:-1,Sony HD
 http://190.119.178.46:8000/play/a00q/index.m3u8
 #EXTINF:-1,Space HD
