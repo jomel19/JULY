@@ -17,8 +17,10 @@ http://209.45.81.84:8000/play/a00c
 http://161.132.108.75:50001/play/a03y/index.m3u8
 #EXTINF:0,LIGA 1 MAX 3
 http://38.43.150.126:8000/play/a04j/index.m3u8
-#EXTINF:0,LIGA 1 MAX 4
-http://budtvlight.com:25461/Daniel/0000/122069
+#EXTINF:-1,Liga 1 Max 4
+http://190.119.178.46:8000/play/a036/index.m3u8
+#EXTINF:0,LIGA 1 MAX 5
+http://51.222.241.122:8080/ZonaVip16/SevillanoCG16/244048
 #EXTINF:-1,GOLPERU HD 1
 http://209.45.81.84:8000/play/a00a
 #EXTINF:-1,GOLPERU HD 2
@@ -28,7 +30,7 @@ http://190.116.90.43:8000/play/a012
 #EXTINF:-1,Movistar Deportes HD 1
 http://209.45.81.84:8000/play/a002
 #EXTINF:-1,Movistar Deportes HD 2
-http://191.97.58.41:8001/play/a02a
+http://191.97.55.241:8000/play/a03x/index.m3u8
 #EXTINF:-1,Movistar Deportes HD 3
 http://190.116.90.43:8000/play/a00x
 #EXTINF:-1,Latina HD
@@ -38,13 +40,13 @@ http://190.116.90.43:8000/play/a011
 #EXTINF:-1, Latina HD
 http://209.45.81.84:8000/play/a008
 #EXTINF:-1,Latina HD
-http://177.53.155.236:8000/play/a00r/index.m3u8
+http://191.97.55.241:8000/play/a044/index.m3u8
 #EXTINF:-1,America TV HD
 http://190.116.90.43:8000/play/a010
 #EXTINF:-1, América TV HD
 http://190.119.178.46:8000/play/a02k/index.m3u8
 #EXTINF:-1, América TV HD
-http://177.53.155.236:8000/play/a00q/index.m3u8
+http://191.97.55.241:8000/play/a043/index.m3u8
 #EXTINF:-1,TV PANAMERICANA
 http://209.45.81.84:8000/play/a00b
 #EXTINF:-1,Panamericana
@@ -57,6 +59,8 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 http://181.119.66.30:8000/play/ATV/index.m3u8
 #EXTINF:0,ATV+
 http://190.119.178.46:8000/play/a037/index.m3u8
+#EXTINF:-1,PBO TV HD
+http://51.222.241.122:8080/ZonaVip16/SevillanoCG16/211293
 #EXTINF:0,Exitosa HD
 http://209.45.81.84:8000/play/a035
 #EXTINF:0,Exitosa HD
@@ -68,7 +72,7 @@ http://209.45.81.84:8000/play/a038
 #EXTINF:-1,WILLAX
 http://190.119.178.46:8000/play/a035/index.m3u8
 #EXTINF:0,WILLAX HD
-http://161.132.108.75:50001/play/a029/index.m3u8
+http://191.97.55.241:8000/play/a068/index.m3u8
 #EXTINF:0, RPP HD
 http://191.97.58.41:8001/play/a00v
 #EXTINF:0, RPP HD
@@ -78,7 +82,9 @@ http://190.119.178.46:8000/play/a00i/index.m3u8
 #EXTINF:0,CANAL N HD
 http://45.71.252.67:8000/play/a0fi/index.m3u8
 #EXTINF:0,CANAL N HD
-http://177.53.153.21:8001/play/a0bd/index.m3u8
+http://191.97.55.241:8000/play/a069/index.m3u8
+#EXTINF:-1,CAJAMARCA TV
+http://190.119.178.46:8000/play/a03g/index.m3u8
 #EXTINF:-1,TURBOMIX CAJAMARCA
 http://190.119.178.46:8000/play/a03c/index.m3u8
 #EXTINF:-1,TV PERU
@@ -114,7 +120,7 @@ http://191.97.55.241:8000/play/a05x
 #EXTINF:-1,ESPN HD
 http://177.53.155.236:8000/play/a00l/index.m3u8
 #EXTINF:-1,ESPN HD
-http://177.53.155.236:8000/play/a0b2/index.m3u8
+http://191.97.58.41:8001/play/a00h
 #EXTINF:-1,ESPN 2 HD
 http://190.119.178.46:8000/play/a00y/index.m3u8
 #EXTINF:-1,ESPN 2 HD
@@ -132,7 +138,7 @@ http://191.97.55.241:8000/play/a037
 #EXTINF:-1,ESPN EXTRA HD
 http://190.119.178.46:8000/play/a022/index.m3u8
 #EXTINF:-1,ESPN EXTRA HD
-http://177.53.155.236:8000/play/a05j/index.m3u8
+http://191.97.58.41:8001/play/a00s
 #EXTINF:-1,ESPN EXTRA HD
 http://191.97.55.241:8000/play/a03m
 #EXTINF:0,DSPORTS 
@@ -170,7 +176,7 @@ http://190.119.178.46:8000/play/a01q/index.m3u8
 #EXTINF:-1,Fox Sports 3 HD
 http://190.119.178.46:8000/play/a01a/index.m3u8
 #EXTINF:-1,TyC Sports HD
-http://191.97.58.41:8001/play/a007
+http://191.97.55.241:8000/play/a06f/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://190.119.178.46:8000/play/a02m/index.m3u8
 #EXTINF:-1,Win Sports HD
@@ -200,7 +206,7 @@ http://161.132.108.75:50001/play/a01q/index.m3u8
 #EXTINF:-1,Space HD
 http://191.97.58.41:8001/play/a024
 #EXTINF:-1,ANTENA 3 HD
-http://31.42.185.216:8000/melihr89TV/M4FF5SGQKC/126214
+http://191.97.58.41:8001/play/a00l
 #EXTINF:-1,ESPN HD
 http://191.97.58.41:8001/play/a004
 #EXTINF:-1,ESPN 2 HD
@@ -239,8 +245,6 @@ http://190.119.178.46:8000/play/a03w/index.m3u8
 http://190.119.178.46:8000/play/a02c/index.m3u8
 #EXTINF:-1,BBC News
 http://190.119.178.46:8000/play/a042/index.m3u8
-#EXTINF:-1,CAJAMARCA TV
-http://190.119.178.46:8000/play/a03g/index.m3u8
 #EXTINF:-1,CDO Premium
 http://190.119.178.46:8000/play/a00k/index.m3u8
 #EXTINF:-1,CNN Chile HD
@@ -265,8 +269,6 @@ http://190.119.178.46:8000/play/a01f/index.m3u8
 http://190.119.178.46:8000/play/a03h/index.m3u8
 #EXTINF:-1,DHE HD
 http://190.119.178.46:8000/play/a02w/index.m3u8
-#EXTINF:-1,DIRECTV Liga 1 Max
-http://190.119.178.46:8000/play/a036/index.m3u8
 #EXTINF:-1,DISCOVERY ID HD
 http://190.119.178.46:8000/play/a01g/index.m3u8
 #EXTINF:-1,DISCOVERY TURBO
@@ -353,16 +355,12 @@ http://190.119.178.46:8000/play/a028/index.m3u8
 http://190.119.178.46:8000/play/a00q/index.m3u8
 #EXTINF:-1,Space HD
 http://190.119.178.46:8000/play/a00t/index.m3u8
-#EXTINF:-1,Stingray Concerts HD
-http://190.119.178.46:8000/play/a02i/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://190.119.178.46:8000/play/a027/index.m3u8
 #EXTINF:-1,Sun Channel HD
 http://190.119.178.46:8000/play/a01j/index.m3u8
 #EXTINF:-1,SyFy
 http://190.119.178.46:8000/play/a03y/index.m3u8
-#EXTINF:-1,TAURUS TV
-http://190.119.178.46:8000/play/a033/index.m3u8
 #EXTINF:-1,TCM
 http://190.119.178.46:8000/play/a03z/index.m3u8
 #EXTINF:-1,TEEN NICK HD 
